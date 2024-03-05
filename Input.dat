@@ -1,0 +1,8 @@
+----------- INPUT PARAMETERS -----------
+-10		! Left Boundary [m]
+10		! Right Boundary [m]
+1		! Propagation velocity [m/s]
+10		! Final time [s]
+400		! Grid points
+0.75		! CFL condition
+----------------------------------------
